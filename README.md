@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: Email - tonatiuhula8@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm part of the SI program at my college!
+- ⚡ Fun fact: I'm employed as an SI at my college!
 
 <!---
 Blorpity/Blorpity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
